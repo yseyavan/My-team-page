@@ -22,7 +22,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/leocalmeida/my-team-page/blob/main/public/Preview.png)
+![screenshot](https://github.com/yseyavan/My-team-page/blob/master/Preview.png)
 
 
 ### Built With
@@ -38,9 +38,11 @@
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
-
 ## Contact
 
+- GitHub [@yseyavan](https://github.com/yseyavan)
+- Twitter [@yseyavan88](https://twitter.com/yseyavan88)
+- FaceBook [@seyavan88](https://www.facebook.com/seyavan88)
+- Instagram [@seyavan88](https://www.instagram.com/seyavan88)
 
-- GitHub [@leocalmeida](https://{github.com/leocalmeida})
-- Gmail leonardocaetanoalmeida@gmail.com
+
