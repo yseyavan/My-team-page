@@ -8,16 +8,19 @@
 
 <div align="center">
   <h3>
+    <a href="https://yseyavan.github.io/My-team-page/">
+      Demo
+    </a>
+    <span> | </span>
     <a href="https://github.com/yseyavan/My-team-page">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
 </div>
-
 <!-- TABLE OF CONTENTS -->
 
 ## Overview
