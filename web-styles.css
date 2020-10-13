@@ -1,0 +1,35 @@
+@media (min-width: 755px) {
+  body {
+    max-width: 1000px;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 96px;
+  }
+
+  section img {
+    width: 238px;
+  }
+
+  .description {
+    width: 439px;
+  }
+
+  .description h2,
+  p {
+    font-size: 18px;
+  }
+
+  .profiles .person:nth-child(even) {
+    margin-top: 50px;
+  }
+}
+
+@media (min-width: 820px) {
+  .profiles .person:nth-child(5) {
+    margin-top: 100px;
+  }
+}
